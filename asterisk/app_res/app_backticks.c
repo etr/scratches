@@ -1,7 +1,7 @@
 /*
  * backticks Application For Asterisk
  *
- * Copyright (c) 2010-2011 Sebastiano Merlino <etr@pensieroartificiale.com>
+ * Copyright (c) 2010-2011 Sebastiano Merlino <merlino.sebastiano@gmail.com>
  *
  * From an original idea of Anthony Minessale II
  *
